@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "821461673060",
+    "firebase_url": "https://hydroponicapp-1f04d.firebaseio.com",
+    "project_id": "hydroponicapp-1f04d",
+    "storage_bucket": "hydroponicapp-1f04d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821461673060:android:c2cb11bceca47749",
+        "android_client_info": {
+          "package_name": "com.chayanin.hydroponicapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821461673060-fngh87mj70pv3gfc4ckvrg0aki1vrvo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXFIoDZzophCLQD49eM2-PYzYs5C0YquQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821461673060:android:b326fcaee00a59d7",
+        "android_client_info": {
+          "package_name": "com.chayanin.hydroponic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821461673060-fngh87mj70pv3gfc4ckvrg0aki1vrvo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXFIoDZzophCLQD49eM2-PYzYs5C0YquQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
